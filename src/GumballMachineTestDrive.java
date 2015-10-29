@@ -11,6 +11,7 @@ public class GumballMachineTestDrive {
 		gumballMachine.turnCrank();
 
 		System.out.println(gumballMachine);
+		//ploynarak
 
 		gumballMachine.insertQuarter();
 		gumballMachine.ejectQuarter();
